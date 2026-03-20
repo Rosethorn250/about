@@ -13,9 +13,9 @@ title                    : "Victoria Cairns / Portfolio"
 title_separator          : "-"
 name                     : &name "Victoria Cairns"
 description              : &description "Victoria's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://rosethorn250.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Victoria Cairns"
+  pronouns         : "She/Her"  
+  bio              : "A Digital Humanities Graduate student at the University of Alberta, with an undergraduate degree in English and Creative Writing with a game development certificate alongside."
+  location         : "Edmonton, Alberta"
+  employer         : "University of Alberta"
   uri              : # URL
   email            : "none@example.org" 
 
