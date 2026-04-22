@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Fall 2025-Current: Research Assistant
+* Fall 2025 - Current: Research Assistant
   * University of Alberta
   * Duties include: Public Outreach, Workshop Admin, Interview Recording and Questioning
   * Supervisor: Dr. PB Berge
