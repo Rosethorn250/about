@@ -26,7 +26,7 @@ Work experience
   * Duties included: Interview Transcription Refinement
   * Supervisor: Dr. Sean Gouglas
 
-'Publications'
+<!--Publications-->
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -38,7 +38,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-'Teaching'
+<!--Teaching-->
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
