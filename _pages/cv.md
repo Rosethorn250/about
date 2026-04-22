@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+## Education
 * M.A. in Digital Humanities, University of Alberta, 2027 (expected)
 * B.A. in English, University of Alberta, 2025
 
-##Work experience
+## Work experience
 * Fall 2025 - Current: Research Assistant
   * University of Alberta
   * Duties include: Outreach Communication, Workshop Admin, Interview Recording and Questioning
@@ -24,17 +24,17 @@ redirect_from:
   * Duties included: Interview Transcription Review
   * Supervisor: Dr. Sean Gouglas
 
-<!--##Publications-->
+<!--## Publications-->
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-##Talks
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<!--##Teaching-->
+<!--## Teaching-->
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
