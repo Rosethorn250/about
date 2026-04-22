@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Digital Humanities, University of Alberta, 2027 (expected)
+* B.A. in English, University of Alberta, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025-Current: Research Assistant
+  * University of Alberta
+  * Duties include: Public Outreach, Workshop Admin, Interview Recording and Questioning
+  * Supervisor: Dr. PB Berge
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Research Assistant
+  * University of Alberta
+  * Duties included: Interview Transcription Refinement
+  * Supervisor: Dr. Sean Gouglas
 
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +48,5 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
